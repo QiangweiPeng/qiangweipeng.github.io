@@ -16,7 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am now working on spatiotemporal dynamics modeling of single-cell/spatial transcriptome data If you are seeking any form of academic cooperation, please feel free to email me at qiangwei_peng@stu.pku.edu.cn.
+
+# 🐾 About Me
+<span style="color:#F08080;"> I am now working on spatiotemporal dynamics modeling of single-cell/spatial transcriptome data If you are seeking any form of academic cooperation, please feel free to email me at qiangwei_peng@stu.pku.edu.cn.
 
 I am a fourth-year Ph.D. student at the School of Mathematical Sciences, Peking University, advised by [Prof. Tiejun Li (李铁军)](https://www.math.pku.edu.cn/teachers/litj/). Currently, I am a visiting graduate researcher at the Department of Genetics, Stanford University, working with [Prof. Xiaojie Qiu (邱肖杰)](https://www.devo-evo.com/). I received my bachelor's degree from the School of Mathematical Sciences at Xiamen University, where I was mentored by [Prof. Wen Huang (黄文)](https://www.math.fsu.edu/~whuang2/). In addition to my mathematics training, I also earned a second bachelor's degree in economics.
 
