@@ -20,7 +20,7 @@ redirect_from:
 # 🐾 About Me
 <span style="color:#F08080;"> I am now working on spatiotemporal dynamics modeling of single-cell/spatial transcriptome data If you are seeking any form of academic cooperation, please feel free to email me at qiangwei_peng@stu.pku.edu.cn.
 
-I am a fourth-year Ph.D. student at the School of Mathematical Sciences, Peking University, advised by [Prof. Tiejun Li (李铁军)](https://www.math.pku.edu.cn/teachers/litj/). Currently, I am a visiting graduate researcher at the Department of Genetics, Stanford University, working with [Prof. Xiaojie Qiu (邱肖杰)](https://www.devo-evo.com/). I received my bachelor's degree from the School of Mathematical Sciences at Xiamen University, where I was mentored by [Prof. Wen Huang (黄文)](https://www.math.fsu.edu/~whuang2/). In addition to my mathematics training, I also earned a second bachelor's degree in economics.
+I am a fourth-year Ph.D. student at the School of Mathematical Sciences, Peking University, advised by [Prof. Tiejun Li (李铁军)](https://www.math.pku.edu.cn/teachers/litj/). Currently, I am a visiting student researcher at the Department of Genetics, Stanford University, working with [Prof. Xiaojie Qiu (邱肖杰)](https://www.devo-evo.com/). I received my bachelor's degree from the School of Mathematical Sciences at Xiamen University, where I was mentored by [Prof. Wen Huang (黄文)](https://www.math.fsu.edu/~whuang2/). In addition to my mathematics training, I also earned a second bachelor's degree in economics.
 
 
 My current research interests lie at the intersection of mathematics, computational biology, and machine learning. I focus on developing mathematical models and advanced deep learning methods to reconstruct continuous cellular dynamics from single-cell and spatial transcriptomics data.
@@ -29,7 +29,7 @@ Ultimately, my long-term goal is to enable predictive modeling of early developm
 
 
 # 🔥 News
-- *2025.6*: &nbsp;🎉🎉 We submitted the preprint of stVCR, which is the first algorithm capable of inferring continuous spatiotemporal dynamics from spatial transcriptome snapshots.
+- *2024.6*: &nbsp;🎉🎉 We submitted the preprint of stVCR, which is the first algorithm capable of inferring continuous spatiotemporal dynamics from spatial transcriptome snapshots.
 - *2024.11*: &nbsp;🎉🎉 Storm was accepted by *PLOS Computational Biology*! We designed a stochastic dynamics model for the metabolic labeling scRNA-seq data.
 - *2023.11*: &nbsp;🎉🎉 My first paper was published in *Inverse Problems*! We proposed a regular-texture image inpainting method based on exemplar matching and low-rank sparse prior.
 
