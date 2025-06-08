@@ -64,6 +64,7 @@ Ultimately, my long-term goal is to enable predictive modeling of early developm
 - *2021.06* &nbsp;📘 National Program for the Cultivation of Top Students in Mathematics (Ministry of Education)  
 - *2021.06* &nbsp;🎓 Outstanding Graduate of Xiamen University  
 - *2020.11* &nbsp;🥈 Second Prize (National Level), China Undergraduate Mathematical Contest in Modeling (CUMCM)
+- *2020.10* &nbsp;🏅 Outstanding Award in Computational and Applied Mathematics Category, S.-T.Yau College Student Mathematics Contests
 
 # 📖 Educations
 - *2025.03 - Present*, Visiting Student Researcher, School of Medicine, Stanford University  
